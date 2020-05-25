@@ -1,0 +1,15 @@
+body {
+  max-height: 100vh;
+}
+
+h1 {
+  color: rgb(47, 108, 47);
+  font-family: Arial, Helvetica, sans-serif;
+  align-self: center;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+}
